@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hellooooo 👋 🤘 ✌️ 
+
+## Recent personal blog posts
+
+<!-- blog posts -->
+
+<!-- /blog posts -->
 
 <!--
 **schalkneethling/schalkneethling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
