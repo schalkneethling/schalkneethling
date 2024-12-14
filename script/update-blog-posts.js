@@ -21,7 +21,7 @@ function postsToMarkdown(posts) {
 
     return posts.map(post => {
         const pubDate = new Date(post.pubDate);
-        const content = [`## [${post.title}](${post.link})`, post.description, pubDate.toLocaleDateString(undefined, options)].join('\n\n');
+        const content = [`### [${post.title}](${post.link})`, post.description, pubDate.toLocaleDateString(undefined, options)].join('\n\n');
         return content.trim();
     }).join('\n\n');
 }
