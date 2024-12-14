@@ -1,0 +1,28 @@
+{
+  "name": "schalkneethling",
+  "version": "0.0.1",
+  "description": "My GitHub profile",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "readme:dryrun": "DRYRUN=1 node script/update-blog-posts.js",
+    "readme:update": "node script/update-blog-posts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schalkneethling/schalkneethling.git#main"
+  },
+  "keywords": [
+    "profile",
+    "github"
+  ],
+  "author": "Schalk Neethling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schalkneethling/schalkneethling/issues"
+  },
+  "homepage": "https://github.com/schalkneethling/schalkneethling/tree/main#readme",
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
