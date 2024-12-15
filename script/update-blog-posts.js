@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 
 import { XMLParser } from "fast-xml-parser";
-import { logger } from "../utils/logger";
+import { logger } from "../utils/logger.js";
 
 function getReadmeContent() {
   return readFileSync("README.md", "utf-8");
