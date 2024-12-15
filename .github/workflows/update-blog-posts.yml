@@ -1,0 +1,50 @@
+name: Update blog posts in README
+
+on:
+  pull_request:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install
+        run: npm ci
+
+      - name: Update README
+        run: npm run readme:update
+
+      - name: Diff?
+        run: git diff
+
+      - name: Commit
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+
+          git status | grep 'nothing to commit' && exit 0
+
+          git config --global user.name "schalkneethling"
+          git config --global user.email "schalkneethling@duck.com"
+
+          date=$(date '+%Y-%m-%d-%H-%M')
+          git checkout main
+          git add README.md
+          git commit -m "update blog posts in readme ($date)"
+          git push origin main

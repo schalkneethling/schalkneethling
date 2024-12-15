@@ -9,8 +9,7 @@
     "readme:update": "node script/update-blog-posts.js",
     "prettier:lint": "prettier .",
     "prettier:format": "prettier --write .",
-    "lint:js": "eslint .",
-    "lint:css": "stylelint **/*.css"
+    "lint:js": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -34,9 +33,6 @@
     "@eslint/js": "^9.17.0",
     "eslint": "^9.17.0",
     "globals": "^15.13.0",
-    "prettier": "^3.4.2",
-    "stylelint": "^16.11.0",
-    "stylelint-config-standard": "^36.0.1",
-    "stylelint-order": "^6.0.4"
+    "prettier": "^3.4.2"
   }
 }
