@@ -6,35 +6,35 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
-### [21 Pieces Of Unsolicited Advice For Junior Web Developers](https://schalkneethling.com/posts/21-pieces-of-unsolicited-advice-for-junior-web-developers/)
+### [Raise The Red Flag Early: The Power of Explicit Return Types in TypeScript](https://schalkneethling.com/posts/the-benefits-of-typing-function-return-values/)
 
-In this post, I share 21 pieces of unsolicited advice for junior web developers. I emphasize the challenges of learning web development, encourage collaboration, and highlight the importance of web accessibility. Additionally, I discuss bootcamps, university degrees, and the value of learning to code.
+Learn how explicit return types in TypeScript can help you catch potential bugs early, improve code reliability, and create more predictable and maintainable TypeScript applications.
 
-Wednesday, April 3, 2024
+Tuesday, December 10, 2024
 
-### [Cancelling asynchronous operations with AbortController](https://schalkneethling.com/posts/cancelling-asynchronous-operations-with-abortcontroller/)
+### [Watched It - The Good, The Bad, and The Web Components - Zach Leatherman](https://schalkneethling.com/posts/watched-it-the-good-the-bad-web-components/)
 
-How to cancel asynchronous operations with the AbortController API.
+My takeaways from Zach Leatherman's talk on web components at the 2023 JSHeroes conference.
 
-Friday, July 1, 2022
+Wednesday, July 31, 2024
 
-### [Filter by size of Array - MongoDB Compass](https://schalkneethling.com/posts/filter-by-size-of-array-mongodb-compass/)
+### [When Claude does not get your git](https://schalkneethling.com/posts/when-claude-does-not-get-your-git/)
 
-Learn how to filter documents in a MongoDB collection by the size of an array field.
+Why you should be careful copying and pasting proposed solutions from LLMs.
 
-Friday, July 1, 2022
+Monday, July 8, 2024
 
-### [Flexsearch tokenizers - Learning through writing tests](https://schalkneethling.com/posts/flexsearch-tokenizers-learning-through-writing-tests/)
+### [What we lose at the gates](https://schalkneethling.com/posts/what-we-lose-at-the-gates/)
 
-An introduction to Flexsearch and its tokenizers through writing and interpreting tests.
+Perhaps it is the social bubble I find myself in, but it seems there is a lot of talk about gatekeeping happening at the moment. While the bubble metaphor does not quite work for what will follow, I do not have a better one, so humor me.
 
-Friday, July 1, 2022
+Thursday, April 25, 2024
 
-### [HacktoberFest ~ Signup and get your Git on](https://schalkneethling.com/posts/hacktoberfest-signup-and-get-your-git-on/)
+### [Number and Currency Formatting in JavaScript using Intl.NumberFormat](https://schalkneethling.com/posts/number-and-currency-formatting-in-javascript-using-intl-numberformat/)
 
-It’s October, which means pumpkins, candy, costumes, and Hacktoberfest. If you are completely new to open source and contributing on Github, but want to join in the fun, read on.
+While this post does not by any means aim to cover all the amazing things you can do with Intl.NumberFormat, I do cover two very common use cases you may have faced when formatting numbers in JavaScript.
 
-Friday, October 1, 2021
+Thursday, April 4, 2024
 <!-- /blog posts -->
 
 <!--
