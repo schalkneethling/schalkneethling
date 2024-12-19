@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [CSS translate, scale, and rotate have a new home and it’s splendid! Come on in.](https://schalkneethling.com/posts/css-translate-scale-rotate-have-a-new-home/)
+
+Unlock simpler web development with CSS's new individual transform properties—cleaner syntax, more intuitive styling, and delightful animations.
+
+Tuesday, December 17, 2024
+
 ### [Raise The Red Flag Early: The Power of Explicit Return Types in TypeScript](https://schalkneethling.com/posts/the-benefits-of-typing-function-return-values/)
 
 Learn how explicit return types in TypeScript can help you catch potential bugs early, improve code reliability, and create more predictable and maintainable TypeScript applications.
@@ -29,12 +35,6 @@ Monday, July 8, 2024
 Perhaps it is the social bubble I find myself in, but it seems there is a lot of talk about gatekeeping happening at the moment. While the bubble metaphor does not quite work for what will follow, I do not have a better one, so humor me.
 
 Thursday, April 25, 2024
-
-### [Number and Currency Formatting in JavaScript using Intl.NumberFormat](https://schalkneethling.com/posts/number-and-currency-formatting-in-javascript-using-intl-numberformat/)
-
-While this post does not by any means aim to cover all the amazing things you can do with Intl.NumberFormat, I do cover two very common use cases you may have faced when formatting numbers in JavaScript.
-
-Thursday, April 4, 2024
 <!-- /blog posts -->
 
 <!--
