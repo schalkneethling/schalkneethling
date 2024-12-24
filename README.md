@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Announcing Minimalist: A Minimal Modern CSS Library for Most Web Projects](https://schalkneethling.com/posts/announcing-minimalist-modern-css-library-for-most-web-projects/)
+
+Introducing Minimalist, a modern, lightweight, and customizable CSS library designed to provide a solid foundation for styling websites and web applications. Learn about its key features, technical details, and how you can get involved.
+
+Tuesday, December 24, 2024
+
 ### [CSS translate, scale, and rotate have a new home and it’s splendid! Come on in.](https://schalkneethling.com/posts/css-translate-scale-rotate-have-a-new-home/)
 
 Unlock simpler web development with CSS's new individual transform properties—cleaner syntax, more intuitive styling, and delightful animations.
@@ -29,12 +35,6 @@ Wednesday, July 31, 2024
 Why you should be careful copying and pasting proposed solutions from LLMs.
 
 Monday, July 8, 2024
-
-### [What we lose at the gates](https://schalkneethling.com/posts/what-we-lose-at-the-gates/)
-
-Perhaps it is the social bubble I find myself in, but it seems there is a lot of talk about gatekeeping happening at the moment. While the bubble metaphor does not quite work for what will follow, I do not have a better one, so humor me.
-
-Thursday, April 25, 2024
 <!-- /blog posts -->
 
 <!--
