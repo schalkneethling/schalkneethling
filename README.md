@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Exploring the Role of AI in Self-Reflection and Emotional Growth](https://schalkneethling.com/posts/exploring-the-role-of-ai-in-self-reflection-and-emotional-growth/)
+
+This personal reflection explores how AI chatbots can support emotional growth and self-discovery, offering insights on using AI as a thoughtful companion while acknowledging its limitations compared to human connection and professional therapy.
+
+Saturday, December 28, 2024
+
 ### [Announcing Minimalist: A Minimal Modern CSS Library for Most Web Projects](https://schalkneethling.com/posts/announcing-minimalist-modern-css-library-for-most-web-projects/)
 
 Introducing Minimalist, a modern, lightweight, and customizable CSS library designed to provide a solid foundation for styling websites and web applications. Learn about its key features, technical details, and how you can get involved.
@@ -29,12 +35,6 @@ Tuesday, December 10, 2024
 My takeaways from Zach Leatherman's talk on web components at the 2023 JSHeroes conference.
 
 Wednesday, July 31, 2024
-
-### [When Claude does not get your git](https://schalkneethling.com/posts/when-claude-does-not-get-your-git/)
-
-Why you should be careful copying and pasting proposed solutions from LLMs.
-
-Monday, July 8, 2024
 <!-- /blog posts -->
 
 <!--
