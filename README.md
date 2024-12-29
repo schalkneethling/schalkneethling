@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Using npm link for Local Package Development](https://schalkneethling.com/posts/using-npm-link-for-local-package-development/)
+
+Learn how to use npm link to test your NPM packages locally before publishing to the registry. With some common troubleshooting tips and best practices.
+
+Sunday, December 29, 2024
+
 ### [Exploring the Role of AI in Self-Reflection and Emotional Growth](https://schalkneethling.com/posts/exploring-the-role-of-ai-in-self-reflection-and-emotional-growth/)
 
 This personal reflection explores how AI chatbots can support emotional growth and self-discovery, offering insights on using AI as a thoughtful companion while acknowledging its limitations compared to human connection and professional therapy.
@@ -29,12 +35,6 @@ Tuesday, December 17, 2024
 Learn how explicit return types in TypeScript can help you catch potential bugs early, improve code reliability, and create more predictable and maintainable TypeScript applications.
 
 Tuesday, December 10, 2024
-
-### [Watched It - The Good, The Bad, and The Web Components - Zach Leatherman](https://schalkneethling.com/posts/watched-it-the-good-the-bad-web-components/)
-
-My takeaways from Zach Leatherman's talk on web components at the 2023 JSHeroes conference.
-
-Wednesday, July 31, 2024
 <!-- /blog posts -->
 
 <!--
