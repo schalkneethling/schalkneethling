@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Introducing Project Calavera: Your Universal Project Configuration Assistant](https://schalkneethling.com/posts/introducing-project-calavera-your-universal-project-configuration-assistant/)
+
+Meet Project Calavera, a new open-source CLI tool that makes project configuration setup a breeze, especially for developers working outside the familiar framework ecosystems.
+
+Monday, December 30, 2024
+
 ### [Using npm link for Local Package Development](https://schalkneethling.com/posts/using-npm-link-for-local-package-development/)
 
 Learn how to use npm link to test your NPM packages locally before publishing to the registry. With some common troubleshooting tips and best practices.
@@ -29,12 +35,6 @@ Tuesday, December 24, 2024
 Unlock simpler web development with CSS's new individual transform properties—cleaner syntax, more intuitive styling, and delightful animations.
 
 Tuesday, December 17, 2024
-
-### [Raise The Red Flag Early: The Power of Explicit Return Types in TypeScript](https://schalkneethling.com/posts/the-benefits-of-typing-function-return-values/)
-
-Learn how explicit return types in TypeScript can help you catch potential bugs early, improve code reliability, and create more predictable and maintainable TypeScript applications.
-
-Tuesday, December 10, 2024
 <!-- /blog posts -->
 
 <!--
