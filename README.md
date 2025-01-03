@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Part One: Building a Profile Page with HTML and CSS: Planning](https://schalkneethling.com/posts/build-a-profile-page-html-css-planning/)
+
+In this part of the series we will break down the design into components using Atomic Design, set up our repository on GitHub, and create the issues we will need to work on.
+
+Friday, January 3, 2025
+
 ### [Introducing Project Calavera: Your Universal Project Configuration Assistant](https://schalkneethling.com/posts/introducing-project-calavera-your-universal-project-configuration-assistant/)
 
 Meet Project Calavera, a new open-source CLI tool that makes project configuration setup a breeze, especially for developers working outside the familiar framework ecosystems.
@@ -29,12 +35,6 @@ Saturday, December 28, 2024
 Introducing Minimalist, a modern, lightweight, and customizable CSS library designed to provide a solid foundation for styling websites and web applications. Learn about its key features, technical details, and how you can get involved.
 
 Tuesday, December 24, 2024
-
-### [CSS translate, scale, and rotate have a new home and it’s splendid! Come on in.](https://schalkneethling.com/posts/css-translate-scale-rotate-have-a-new-home/)
-
-Unlock simpler web development with CSS's new individual transform properties—cleaner syntax, more intuitive styling, and delightful animations.
-
-Tuesday, December 17, 2024
 <!-- /blog posts -->
 
 <!--
