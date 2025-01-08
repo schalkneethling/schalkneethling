@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Part Two: Building a Profile Page with HTML and CSS: Implementation](https://schalkneethling.com/posts/build-a-profile-page-html-css-part2-impl/)
+
+In this post we will start implementing the design by working through some of the issues, learning more about Git and GitHub, get set up for development, create our first visual component, and learn about performance, CSS, and modern image formats.
+
+Tuesday, January 7, 2025
+
 ### [Part One: Building a Profile Page with HTML and CSS: Planning](https://schalkneethling.com/posts/build-a-profile-page-html-css-planning/)
 
 In this part of the series we will break down the design into components using Atomic Design, set up our repository on GitHub, and create the issues we will need to work on.
@@ -29,12 +35,6 @@ Sunday, December 29, 2024
 This personal reflection explores how AI chatbots can support emotional growth and self-discovery, offering insights on using AI as a thoughtful companion while acknowledging its limitations compared to human connection and professional therapy.
 
 Saturday, December 28, 2024
-
-### [Announcing Minimalist: A Minimal Modern CSS Library for Most Web Projects](https://schalkneethling.com/posts/announcing-minimalist-modern-css-library-for-most-web-projects/)
-
-Introducing Minimalist, a modern, lightweight, and customizable CSS library designed to provide a solid foundation for styling websites and web applications. Learn about its key features, technical details, and how you can get involved.
-
-Tuesday, December 24, 2024
 <!-- /blog posts -->
 
 <!--
