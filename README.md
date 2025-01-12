@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [The Hidden Costs of Creativity in Tech: A Personal Reflection](https://schalkneethling.com/posts/the-hidden-costs-of-creativity-in-tech-a-personal-reflection/)
+
+The financial pressures of modern life can make it hard to justify creative pursuits that don't promise immediate returns. This post explores the hidden costs of creativity in tech and society and the value of creative work beyond monetary gain.
+
+Sunday, January 12, 2025
+
 ### [Part Two: Building a Profile Page with HTML and CSS: Implementation](https://schalkneethling.com/posts/build-a-profile-page-html-css-part2-impl/)
 
 In this post we will start implementing the design by working through some of the issues, learning more about Git and GitHub, get set up for development, create our first visual component, and learn about performance, CSS, and modern image formats.
@@ -29,12 +35,6 @@ Monday, December 30, 2024
 Learn how to use npm link to test your NPM packages locally before publishing to the registry. With some common troubleshooting tips and best practices.
 
 Sunday, December 29, 2024
-
-### [Exploring the Role of AI in Self-Reflection and Emotional Growth](https://schalkneethling.com/posts/exploring-the-role-of-ai-in-self-reflection-and-emotional-growth/)
-
-This personal reflection explores how AI chatbots can support emotional growth and self-discovery, offering insights on using AI as a thoughtful companion while acknowledging its limitations compared to human connection and professional therapy.
-
-Saturday, December 28, 2024
 <!-- /blog posts -->
 
 <!--
