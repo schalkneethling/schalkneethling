@@ -6,7 +6,7 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
-### [Part Three: Building a Profile Page with HTML and CSS: Wrap Up v0.5](https://schalkneethling.com/posts/build-a-profile-page-html-css-part3-wrap-up/)
+### [Part Three: Building a Profile Page with HTML and CSS: Typography And Getting Responsive](https://schalkneethling.com/posts/build-a-profile-page-html-css-part3-wrap-up/)
 
 Learn how to build a responsive profile page with modern typography, media queries, and CSS Grid. Part three of our hands-on web development tutorial series.
 
