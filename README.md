@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Understanding local() in @font-face: A Deep Dive](https://schalkneethling.com/posts/understanding-local-in-at-font-face-a-deep-dive/)
+
+Learn how to build a responsive profile page with modern typography, media queries, and CSS Grid. Part three of our hands-on web development tutorial series.
+
+Wednesday, January 22, 2025
+
 ### [Part Three: Building a Profile Page with HTML and CSS: Typography And Getting Responsive](https://schalkneethling.com/posts/build-a-profile-page-html-css-part3-wrap-up/)
 
 Learn how to build a responsive profile page with modern typography, media queries, and CSS Grid. Part three of our hands-on web development tutorial series.
@@ -29,12 +35,6 @@ Tuesday, January 7, 2025
 In this part of the series we will break down the design into components using Atomic Design, set up our repository on GitHub, and create the issues we will need to work on.
 
 Friday, January 3, 2025
-
-### [Introducing Project Calavera: Your Universal Project Configuration Assistant](https://schalkneethling.com/posts/introducing-project-calavera-your-universal-project-configuration-assistant/)
-
-Meet Project Calavera, a new open-source CLI tool that makes project configuration setup a breeze, especially for developers working outside the familiar framework ecosystems.
-
-Monday, December 30, 2024
 <!-- /blog posts -->
 
 <!--
