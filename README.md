@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Part Four: Building a Profile Page with HTML and CSS: Refactor, Custom Properties, LinkTree](https://schalkneethling.com/posts/build-a-profile-page-html-css-part4-refactor-linktree/)
+
+In part four of the series, we will do some refactoring of our CSS so that we take advantage of CSS custom properties. We will also complete the mobile layout by adding the LinkTree component to our page.
+
+Friday, January 24, 2025
+
 ### [Understanding local() in @font-face: A Deep Dive](https://schalkneethling.com/posts/understanding-local-in-at-font-face-a-deep-dive/)
 
 Learn how to build a responsive profile page with modern typography, media queries, and CSS Grid. Part three of our hands-on web development tutorial series.
@@ -29,12 +35,6 @@ Sunday, January 12, 2025
 In this post we will start implementing the design by working through some of the issues, learning more about Git and GitHub, get set up for development, create our first visual component, and learn about performance, CSS, and modern image formats.
 
 Tuesday, January 7, 2025
-
-### [Part One: Building a Profile Page with HTML and CSS: Planning](https://schalkneethling.com/posts/build-a-profile-page-html-css-planning/)
-
-In this part of the series we will break down the design into components using Atomic Design, set up our repository on GitHub, and create the issues we will need to work on.
-
-Friday, January 3, 2025
 <!-- /blog posts -->
 
 <!--
