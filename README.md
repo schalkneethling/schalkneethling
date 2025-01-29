@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [My Journey to the International Association of Accessibility Professionals (IAAP) Web Accessibility Specialist (WAS) Certification](https://schalkneethling.com/posts/the-journey-to-iaap-was/)
+
+Join me on my journey as I prepare for the IAAP Web Accessibility Specialist (WAS) certification, sharing weekly insights, resources, and study plans.
+
+Wednesday, January 29, 2025
+
 ### [Part Four: Building a Profile Page with HTML and CSS: Refactor, Custom Properties, LinkTree](https://schalkneethling.com/posts/build-a-profile-page-html-css-part4-refactor-linktree/)
 
 In part four of the series, we will do some refactoring of our CSS so that we take advantage of CSS custom properties. We will also complete the mobile layout by adding the LinkTree component to our page.
@@ -29,12 +35,6 @@ Sunday, January 19, 2025
 The financial pressures of modern life can make it hard to justify creative pursuits that don't promise immediate returns. This post explores the hidden costs of creativity in tech and society and the value of creative work beyond monetary gain.
 
 Sunday, January 12, 2025
-
-### [Part Two: Building a Profile Page with HTML and CSS: Implementation](https://schalkneethling.com/posts/build-a-profile-page-html-css-part2-impl/)
-
-In this post we will start implementing the design by working through some of the issues, learning more about Git and GitHub, get set up for development, create our first visual component, and learn about performance, CSS, and modern image formats.
-
-Tuesday, January 7, 2025
 <!-- /blog posts -->
 
 <!--
