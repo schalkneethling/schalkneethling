@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [The HTML Dialog Element: A Native Solution for Accessible Modal Interactions](https://schalkneethling.com/posts/html-dialog-native-solution-for-accessible-modal-interactions/)
+
+Learn how to use the HTML dialog element to create accessible modal dialogs for your web sites and applications.
+
+Tuesday, February 4, 2025
+
 ### [My Journey to the International Association of Accessibility Professionals (IAAP) Web Accessibility Specialist (WAS) Certification](https://schalkneethling.com/posts/the-journey-to-iaap-was/)
 
 Join me on my journey as I prepare for the IAAP Web Accessibility Specialist (WAS) certification, sharing weekly insights, resources, and study plans.
@@ -29,12 +35,6 @@ Wednesday, January 22, 2025
 Learn how to build a responsive profile page with modern typography, media queries, and CSS Grid. Part three of our hands-on web development tutorial series.
 
 Sunday, January 19, 2025
-
-### [The Hidden Costs of Creativity in Tech: A Personal Reflection](https://schalkneethling.com/posts/the-hidden-costs-of-creativity-in-tech-a-personal-reflection/)
-
-The financial pressures of modern life can make it hard to justify creative pursuits that don't promise immediate returns. This post explores the hidden costs of creativity in tech and society and the value of creative work beyond monetary gain.
-
-Sunday, January 12, 2025
 <!-- /blog posts -->
 
 <!--
