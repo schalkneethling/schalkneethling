@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Part Five: Building a Profile Page with HTML and CSS: Responsive, Favicon, Open Graph](https://schalkneethling.com/posts/build-a-profile-page-html-css-part5-final-page/)
+
+In part five of the series, we will complete our layout, add a favicon, and set up Open Graph meta tags for social sharing.
+
+Friday, February 7, 2025
+
 ### [What is WCAG? - A Brief Overview](https://schalkneethling.com/posts/what-is-wcag/)
 
 Learn about WCAG (Web Content Accessibility Guidelines), including WCAG 2.2 principles, conformance levels, and upcoming WCAG 3 changes, plus insights on accessibility certification value.
@@ -29,12 +35,6 @@ Wednesday, January 29, 2025
 In part four of the series, we will do some refactoring of our CSS so that we take advantage of CSS custom properties. We will also complete the mobile layout by adding the LinkTree component to our page.
 
 Friday, January 24, 2025
-
-### [Understanding local() in @font-face: A Deep Dive](https://schalkneethling.com/posts/understanding-local-in-at-font-face-a-deep-dive/)
-
-Learn how to build a responsive profile page with modern typography, media queries, and CSS Grid. Part three of our hands-on web development tutorial series.
-
-Wednesday, January 22, 2025
 <!-- /blog posts -->
 
 <!--
