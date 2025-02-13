@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Curiosity, Collaboration, and Innovation At Any Scale](https://schalkneethling.com/posts/curiosity-collaboration-and-innovation-at-any-scale/)
+
+Harness the power of open source and an innovative culture to drive creativity and collaboration within your team—inspired by Mozilla, GitHub, OddBird, Igalia, and Factorial.
+
+Thursday, February 13, 2025
+
 ### [Part Five: Building a Profile Page with HTML and CSS: Responsive, Favicon, Open Graph](https://schalkneethling.com/posts/build-a-profile-page-html-css-part5-final-page/)
 
 In part five of the series, we will complete our layout, add a favicon, and set up Open Graph meta tags for social sharing.
@@ -29,12 +35,6 @@ Tuesday, February 4, 2025
 Join me on my journey as I prepare for the IAAP Web Accessibility Specialist (WAS) certification, sharing weekly insights, resources, and study plans.
 
 Wednesday, January 29, 2025
-
-### [Part Four: Building a Profile Page with HTML and CSS: Refactor, Custom Properties, LinkTree](https://schalkneethling.com/posts/build-a-profile-page-html-css-part4-refactor-linktree/)
-
-In part four of the series, we will do some refactoring of our CSS so that we take advantage of CSS custom properties. We will also complete the mobile layout by adding the LinkTree component to our page.
-
-Friday, January 24, 2025
 <!-- /blog posts -->
 
 <!--
