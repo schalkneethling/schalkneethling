@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Part Six: Building a Profile Page with HTML and CSS: A form, A Dialog, and Netlify](https://schalkneethling.com/posts/build-a-profile-page-html-css-part6-dialog-form-netlify/)
+
+In this part, we will add a form to our profile page, use a dialog to display our form, deploy our page using Netlify, and set up Netlify to handle form submissions.
+
+Monday, February 17, 2025
+
 ### [Curiosity, Collaboration, and Innovation At Any Scale](https://schalkneethling.com/posts/curiosity-collaboration-and-innovation-at-any-scale/)
 
 Harness the power of open source and an innovative culture to drive creativity and collaboration within your team—inspired by Mozilla, GitHub, OddBird, Igalia, and Factorial.
@@ -29,12 +35,6 @@ Thursday, February 6, 2025
 Learn how to use the HTML dialog element to create accessible modal dialogs for your web sites and applications.
 
 Tuesday, February 4, 2025
-
-### [My Journey to the International Association of Accessibility Professionals (IAAP) Web Accessibility Specialist (WAS) Certification](https://schalkneethling.com/posts/the-journey-to-iaap-was/)
-
-Join me on my journey as I prepare for the IAAP Web Accessibility Specialist (WAS) certification, sharing weekly insights, resources, and study plans.
-
-Wednesday, January 29, 2025
 <!-- /blog posts -->
 
 <!--
