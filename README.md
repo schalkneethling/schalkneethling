@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [CSS Transforms and the Matrix](https://schalkneethling.com/posts/css-transforms-and-the-matrix/)
+
+A deep dive into the CSS transform matrix, how it relates to the individual CSS transform properties, a look at the hidden powers of the function forms, and a dragon or two.
+
+Friday, February 21, 2025
+
 ### [Part Six: Building a Profile Page with HTML and CSS: A form, A Dialog, and Netlify](https://schalkneethling.com/posts/build-a-profile-page-html-css-part6-dialog-form-netlify/)
 
 In this part, we will add a form to our profile page, use a dialog to display our form, deploy our page using Netlify, and set up Netlify to handle form submissions.
@@ -29,12 +35,6 @@ Friday, February 7, 2025
 Learn about WCAG (Web Content Accessibility Guidelines), including WCAG 2.2 principles, conformance levels, and upcoming WCAG 3 changes, plus insights on accessibility certification value.
 
 Thursday, February 6, 2025
-
-### [The HTML Dialog Element: A Native Solution for Accessible Modal Interactions](https://schalkneethling.com/posts/html-dialog-native-solution-for-accessible-modal-interactions/)
-
-Learn how to use the HTML dialog element to create accessible modal dialogs for your web sites and applications.
-
-Tuesday, February 4, 2025
 <!-- /blog posts -->
 
 <!--
