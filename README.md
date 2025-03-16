@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [What if...](https://schalkneethling.com/posts/what-if/)
+
+What if we embraced authenticity, take creative risks, and live deliberately without fear of judgment - a reflection on finding freedom through self-acceptance in both personal and technical pursuits.
+
+Sunday, March 16, 2025
+
 ### [CSS Transforms and the Matrix](https://schalkneethling.com/posts/css-transforms-and-the-matrix/)
 
 A deep dive into the CSS transform matrix, how it relates to the individual CSS transform properties, a look at the hidden powers of the function forms, and a dragon or two.
@@ -29,12 +35,6 @@ Thursday, February 13, 2025
 In part five of the series, we will complete our layout, add a favicon, and set up Open Graph meta tags for social sharing.
 
 Friday, February 7, 2025
-
-### [What is WCAG? - A Brief Overview](https://schalkneethling.com/posts/what-is-wcag/)
-
-Learn about WCAG (Web Content Accessibility Guidelines), including WCAG 2.2 principles, conformance levels, and upcoming WCAG 3 changes, plus insights on accessibility certification value.
-
-Thursday, February 6, 2025
 <!-- /blog posts -->
 
 <!--
