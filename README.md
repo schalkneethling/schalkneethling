@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Precise Positioning with CSS Anchor Functions: anchor(), anchor-center, and anchor-size()](https://schalkneethling.com/posts/precise-positioning-with-css-anchor-functions-anchor-anchor-center-and-anchor-size/)
+
+Take your anchor positioning beyond the grid with functions that give you pixel-level control over placement and sizing.
+
+Friday, January 2, 2026
+
 ### [Getting Started with CSS Anchor Positioning: anchor-name, position-anchor, and position-area](https://schalkneethling.com/posts/getting-started-with-css-anchor-positioning-anchor-name-position-anchor-and-position-area/)
 
 Discover how CSS anchor positioning brings native support for positioning elements relative to each other — no JavaScript required.
@@ -29,12 +35,6 @@ Sunday, March 16, 2025
 A deep dive into the CSS transform matrix, how it relates to the individual CSS transform properties, a look at the hidden powers of the function forms, and a dragon or two.
 
 Friday, February 21, 2025
-
-### [Part Six: Building a Profile Page with HTML and CSS: A form, A Dialog, and Netlify](https://schalkneethling.com/posts/build-a-profile-page-html-css-part6-dialog-form-netlify/)
-
-In this part, we will add a form to our profile page, use a dialog to display our form, deploy our page using Netlify, and set up Netlify to handle form submissions.
-
-Monday, February 17, 2025
 <!-- /blog posts -->
 
 <!--
