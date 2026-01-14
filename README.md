@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [What AI Agents Get Wrong About VRT, And How to Fix It](https://schalkneethling.com/posts/what-ai-agents-get-wrong-about-vrt-and-how-to-fix-it/)
+
+Exploring common misconceptions AI agents have about Visual Regression Testing and practical solutions to address them.
+
+Wednesday, January 14, 2026
+
 ### [Precise Positioning with CSS Anchor Functions: anchor(), anchor-center, and anchor-size()](https://schalkneethling.com/posts/precise-positioning-with-css-anchor-functions-anchor-anchor-center-and-anchor-size/)
 
 Take your anchor positioning beyond the grid with functions that give you pixel-level control over placement and sizing.
@@ -29,12 +35,6 @@ Monday, December 29, 2025
 What if we embraced authenticity, take creative risks, and live deliberately without fear of judgment - a reflection on finding freedom through self-acceptance in both personal and technical pursuits.
 
 Sunday, March 16, 2025
-
-### [CSS Transforms and the Matrix](https://schalkneethling.com/posts/css-transforms-and-the-matrix/)
-
-A deep dive into the CSS transform matrix, how it relates to the individual CSS transform properties, a look at the hidden powers of the function forms, and a dragon or two.
-
-Friday, February 21, 2025
 <!-- /blog posts -->
 
 <!--
