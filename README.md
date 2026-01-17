@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Style Details Content with ::details-content](https://schalkneethling.com/posts/style-details-content-with-details-content/)
+
+Learn how to use the new CSS ::details-content pseudo-element to style the content area of HTML details elements with greater control and flexibility.
+
+Sunday, January 18, 2026
+
 ### [What AI Agents Get Wrong About VRT, And How to Fix It](https://schalkneethling.com/posts/what-ai-agents-get-wrong-about-vrt-and-how-to-fix-it/)
 
 Exploring common misconceptions AI agents have about Visual Regression Testing and practical solutions to address them.
@@ -29,12 +35,6 @@ Wednesday, December 31, 2025
 Learn how to use HTML invoker commands to open and close dialogs without writing any JavaScript.
 
 Monday, December 29, 2025
-
-### [What if...](https://schalkneethling.com/posts/what-if/)
-
-What if we embraced authenticity, take creative risks, and live deliberately without fear of judgment - a reflection on finding freedom through self-acceptance in both personal and technical pursuits.
-
-Sunday, March 16, 2025
 <!-- /blog posts -->
 
 <!--
