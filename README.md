@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Code Reviewing AI-Generated JavaScript: What I Found](https://schalkneethling.com/posts/code-reviewing-ai-generated-javascript-what-i-found/)
+
+What I learned reviewing AI-generated JavaScript: real-world issues, code review tips, and ways to ensure robust, production-ready code.
+
+Monday, January 19, 2026
+
 ### [Style Details Content with ::details-content](https://schalkneethling.com/posts/style-details-content-with-details-content/)
 
 Learn how to use the new CSS ::details-content pseudo-element to style the content area of HTML details elements with greater control and flexibility.
@@ -29,12 +35,6 @@ Friday, January 2, 2026
 Discover how CSS anchor positioning brings native support for positioning elements relative to each other — no JavaScript required.
 
 Wednesday, December 31, 2025
-
-### [Opening and Closing Dialogs Without JavaScript Using HTML Invoker Commands](https://schalkneethling.com/posts/opening-and-closing-dialogs-without-javascript-using-html-invoker-commands/)
-
-Learn how to use HTML invoker commands to open and close dialogs without writing any JavaScript.
-
-Monday, December 29, 2025
 <!-- /blog posts -->
 
 <!--
