@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [CSS Anchor Positioning Fallbacks: What to Do When Things Don't Fit](https://schalkneethling.com/posts/css-anchor-positioning-fallbacks-what-to-do-when-things-dont-fit/)
+
+Build resilient anchor-positioned layouts that adapt when space runs out.
+
+Thursday, January 22, 2026
+
 ### [Code Reviewing AI-Generated JavaScript: What I Found](https://schalkneethling.com/posts/code-reviewing-ai-generated-javascript-what-i-found/)
 
 What I learned reviewing AI-generated JavaScript: real-world issues, code review tips, and ways to ensure robust, production-ready code.
@@ -29,12 +35,6 @@ Wednesday, January 14, 2026
 Take your anchor positioning beyond the grid with functions that give you pixel-level control over placement and sizing.
 
 Friday, January 2, 2026
-
-### [Getting Started with CSS Anchor Positioning: anchor-name, position-anchor, and position-area](https://schalkneethling.com/posts/getting-started-with-css-anchor-positioning-anchor-name-position-anchor-and-position-area/)
-
-Discover how CSS anchor positioning brings native support for positioning elements relative to each other — no JavaScript required.
-
-Wednesday, December 31, 2025
 <!-- /blog posts -->
 
 <!--
