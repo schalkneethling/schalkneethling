@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Exporting Algolia Indices to JSON: Skip the Custom Scripts](https://schalkneethling.com/posts/exporting-algolia-indices-to-json-skip-the-custom-scripts/)
+
+Export your Algolia search indices to JSON without building custom export scripts using the Algolia CLI.
+
+Friday, January 23, 2026
+
 ### [CSS Anchor Positioning Fallbacks: What to Do When Things Don't Fit](https://schalkneethling.com/posts/css-anchor-positioning-fallbacks-what-to-do-when-things-dont-fit/)
 
 Build resilient anchor-positioned layouts that adapt when space runs out.
@@ -29,12 +35,6 @@ Sunday, January 18, 2026
 Exploring common misconceptions AI agents have about Visual Regression Testing and practical solutions to address them.
 
 Wednesday, January 14, 2026
-
-### [Precise Positioning with CSS Anchor Functions: anchor(), anchor-center, and anchor-size()](https://schalkneethling.com/posts/precise-positioning-with-css-anchor-functions-anchor-anchor-center-and-anchor-size/)
-
-Take your anchor positioning beyond the grid with functions that give you pixel-level control over placement and sizing.
-
-Friday, January 2, 2026
 <!-- /blog posts -->
 
 <!--
