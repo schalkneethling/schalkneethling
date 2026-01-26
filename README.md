@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Type Safety and Runtime Validation in JavaScript with Zod and JSDoc](https://schalkneethling.com/posts/type-safety-and-runtime-validation-in-javascript-with-zod-and-jsdoc/)
+
+Combining Zod's runtime validation with JSDoc's type annotations to achieve type safety in JavaScript without TypeScript.
+
+Monday, January 26, 2026
+
 ### [Exporting Algolia Indices to JSON: Skip the Custom Scripts](https://schalkneethling.com/posts/exporting-algolia-indices-to-json-skip-the-custom-scripts/)
 
 Export your Algolia search indices to JSON without building custom export scripts using the Algolia CLI.
@@ -29,12 +35,6 @@ Monday, January 19, 2026
 Learn how to use the new CSS ::details-content pseudo-element to style the content area of HTML details elements with greater control and flexibility.
 
 Sunday, January 18, 2026
-
-### [What AI Agents Get Wrong About VRT, And How to Fix It](https://schalkneethling.com/posts/what-ai-agents-get-wrong-about-vrt-and-how-to-fix-it/)
-
-Exploring common misconceptions AI agents have about Visual Regression Testing and practical solutions to address them.
-
-Wednesday, January 14, 2026
 <!-- /blog posts -->
 
 <!--
