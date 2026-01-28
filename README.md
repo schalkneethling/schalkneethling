@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Preventing Common Issues When Working with AI-Generated Code](https://schalkneethling.com/posts/preventing-common-issues-when-working-with-ai-generated-code/)
+
+AI coding agents have made me significantly more productive as an engineer, but they have a systematic problem: as context fills, they drift from explicit guidance and violate documented patterns. This examines AI limitations and the workflow adaptations that help while labs address the underlying issues.
+
+Wednesday, January 28, 2026
+
 ### [Type Safety and Runtime Validation in JavaScript with Zod and JSDoc](https://schalkneethling.com/posts/type-safety-and-runtime-validation-in-javascript-with-zod-and-jsdoc/)
 
 Combining Zod's runtime validation with JSDoc's type annotations to achieve type safety in JavaScript without TypeScript.
@@ -29,12 +35,6 @@ Thursday, January 22, 2026
 What I learned reviewing AI-generated JavaScript: real-world issues, code review tips, and ways to ensure robust, production-ready code.
 
 Monday, January 19, 2026
-
-### [Style Details Content with ::details-content](https://schalkneethling.com/posts/style-details-content-with-details-content/)
-
-Learn how to use the new CSS ::details-content pseudo-element to style the content area of HTML details elements with greater control and flexibility.
-
-Sunday, January 18, 2026
 <!-- /blog posts -->
 
 <!--
