@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Fast Mocked Responses in Playwright Getting You Down? Deferred Promises to the Rescue](https://schalkneethling.com/posts/fast-mocked-responses-in-playwright-getting-you-down-deferred-promises-to-the-rescue/)
+
+How to use deferred promises to control mock response timing in Playwright tests and avoid race conditions with instant responses.
+
+Friday, January 30, 2026
+
 ### [Preventing Common Issues When Working with AI-Generated Code](https://schalkneethling.com/posts/preventing-common-issues-when-working-with-ai-generated-code/)
 
 AI coding agents have made me significantly more productive as an engineer, but they have a systematic problem: as context fills, they drift from explicit guidance and violate documented patterns. This examines AI limitations and the workflow adaptations that help while labs address the underlying issues.
@@ -29,12 +35,6 @@ Friday, January 23, 2026
 Build resilient anchor-positioned layouts that adapt when space runs out.
 
 Thursday, January 22, 2026
-
-### [Code Reviewing AI-Generated JavaScript: What I Found](https://schalkneethling.com/posts/code-reviewing-ai-generated-javascript-what-i-found/)
-
-What I learned reviewing AI-generated JavaScript: real-world issues, code review tips, and ways to ensure robust, production-ready code.
-
-Monday, January 19, 2026
 <!-- /blog posts -->
 
 <!--
