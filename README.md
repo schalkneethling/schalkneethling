@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Simplify Command-Line Argument Parsing with Node.js util.parseArgs()](https://schalkneethling.com/posts/simplify-command-line-argument-parsing-with-nodejs-util-parseargs/)
+
+Learn how to use Node.js util.parseArgs() to simplify command-line argument parsing in your Node.js CLI utilities.
+
+Wednesday, February 4, 2026
+
 ### [Fast Mocked Responses in Playwright Getting You Down? Deferred Promises to the Rescue](https://schalkneethling.com/posts/fast-mocked-responses-in-playwright-getting-you-down-deferred-promises-to-the-rescue/)
 
 How to use deferred promises to control mock response timing in Playwright tests and avoid race conditions with instant responses.
@@ -29,12 +35,6 @@ Monday, January 26, 2026
 Export your Algolia search indices to JSON without building custom export scripts using the Algolia CLI.
 
 Friday, January 23, 2026
-
-### [CSS Anchor Positioning Fallbacks: What to Do When Things Don't Fit](https://schalkneethling.com/posts/css-anchor-positioning-fallbacks-what-to-do-when-things-dont-fit/)
-
-Build resilient anchor-positioned layouts that adapt when space runs out.
-
-Thursday, January 22, 2026
 <!-- /blog posts -->
 
 <!--
