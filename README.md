@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Using TypeScript Triple-Slash Directives with JSDoc](https://schalkneethling.com/posts/triple-slash-reference-directives-in-jsdoc/)
+
+How to use TypeScript’s triple-slash reference directives to load type definitions when type-checking JavaScript with JSDoc.
+
+Thursday, February 5, 2026
+
 ### [Simplify Command-Line Argument Parsing with Node.js util.parseArgs()](https://schalkneethling.com/posts/simplify-command-line-argument-parsing-with-nodejs-util-parseargs/)
 
 Learn how to use Node.js util.parseArgs() to simplify command-line argument parsing in your Node.js CLI utilities.
@@ -29,12 +35,6 @@ Wednesday, January 28, 2026
 Combining Zod's runtime validation with JSDoc's type annotations to achieve type safety in JavaScript without TypeScript.
 
 Monday, January 26, 2026
-
-### [Exporting Algolia Indices to JSON: Skip the Custom Scripts](https://schalkneethling.com/posts/exporting-algolia-indices-to-json-skip-the-custom-scripts/)
-
-Export your Algolia search indices to JSON without building custom export scripts using the Algolia CLI.
-
-Friday, January 23, 2026
 <!-- /blog posts -->
 
 <!--
