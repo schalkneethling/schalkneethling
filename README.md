@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Dynamically enable and disable map scroll wheel zoom with Leaflet.js](https://schalkneethling.com/posts/dynamically-enable-and-disable-map-scroll-wheel-zoom-with-leaflet-js/)
+
+Learn how to programmatically require the presence of a modifier key to enable scroll wheel zoom support in Leaflet maps.
+
+Saturday, February 7, 2026
+
 ### [Using TypeScript Triple-Slash Directives with JSDoc](https://schalkneethling.com/posts/triple-slash-reference-directives-in-jsdoc/)
 
 How to use TypeScript’s triple-slash reference directives to load type definitions when type-checking JavaScript with JSDoc.
@@ -29,12 +35,6 @@ Friday, January 30, 2026
 AI coding agents have made me significantly more productive as an engineer, but they have a systematic problem: as context fills, they drift from explicit guidance and violate documented patterns. This examines AI limitations and the workflow adaptations that help while labs address the underlying issues.
 
 Wednesday, January 28, 2026
-
-### [Type Safety and Runtime Validation in JavaScript with Zod and JSDoc](https://schalkneethling.com/posts/type-safety-and-runtime-validation-in-javascript-with-zod-and-jsdoc/)
-
-Combining Zod's runtime validation with JSDoc's type annotations to achieve type safety in JavaScript without TypeScript.
-
-Monday, January 26, 2026
 <!-- /blog posts -->
 
 <!--
