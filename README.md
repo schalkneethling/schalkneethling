@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Safely Selecting Elements with Special Characters Using CSS.escape()](https://schalkneethling.com/posts/safely-selecting-elements-with-special-characters-using-css-escape/)
+
+Learn how to safely select DOM elements with special characters in their IDs or classes using CSS.escape() to avoid selector parsing errors.
+
+Tuesday, February 10, 2026
+
 ### [Dynamically enable and disable map scroll wheel zoom with Leaflet.js](https://schalkneethling.com/posts/dynamically-enable-and-disable-map-scroll-wheel-zoom-with-leaflet-js/)
 
 Learn how to programmatically require the presence of a modifier key to enable scroll wheel zoom support in Leaflet maps.
@@ -29,12 +35,6 @@ Wednesday, February 4, 2026
 How to use deferred promises to control mock response timing in Playwright tests and avoid race conditions with instant responses.
 
 Friday, January 30, 2026
-
-### [Preventing Common Issues When Working with AI-Generated Code](https://schalkneethling.com/posts/preventing-common-issues-when-working-with-ai-generated-code/)
-
-AI coding agents have made me significantly more productive as an engineer, but they have a systematic problem: as context fills, they drift from explicit guidance and violate documented patterns. This examines AI limitations and the workflow adaptations that help while labs address the underlying issues.
-
-Wednesday, January 28, 2026
 <!-- /blog posts -->
 
 <!--
