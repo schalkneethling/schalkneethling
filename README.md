@@ -6,15 +6,15 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
-### [Part 2: Organising Reference Materials for AI Agent Sessions](https://schalkneethling.com/posts/part-2-organising-reference-materials-for-ai-agent-sessions/)
-
-How to structure a self-contained folder of specifications, screenshots, and Figma links that an AI agent can reference throughout an implementation planning session.
-
-Saturday, February 14, 2026
-
 ### [Part 3: Running an AI Agent Implementation Planning Session](https://schalkneethling.com/posts/part-3-running-an-ai-agent-implementation-planning-session/)
 
 How to structure an AI agent session with sequential tasks, review checkpoints, and explicit deliverables—turning a handoff document into actionable state machines, gap reports, and implementation plans.
+
+Sunday, February 15, 2026
+
+### [Part 2: Organising Reference Materials for AI Agent Sessions](https://schalkneethling.com/posts/part-2-organising-reference-materials-for-ai-agent-sessions/)
+
+How to structure a self-contained folder of specifications, screenshots, and Figma links that an AI agent can reference throughout an implementation planning session.
 
 Saturday, February 14, 2026
 
