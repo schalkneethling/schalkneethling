@@ -6,6 +6,24 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Part 2: Organising Reference Materials for AI Agent Sessions](https://schalkneethling.com/posts/part-2-organising-reference-materials-for-ai-agent-sessions/)
+
+How to structure a self-contained folder of specifications, screenshots, and Figma links that an AI agent can reference throughout an implementation planning session.
+
+Saturday, February 14, 2026
+
+### [Part 3: Running an AI Agent Implementation Planning Session](https://schalkneethling.com/posts/part-3-running-an-ai-agent-implementation-planning-session/)
+
+How to structure an AI agent session with sequential tasks, review checkpoints, and explicit deliverables—turning a handoff document into actionable state machines, gap reports, and implementation plans.
+
+Saturday, February 14, 2026
+
+### [Part 1: Structuring Feature Specifications for AI Agents](https://schalkneethling.com/posts/structuring-feature-specifications-for-ai-agents/)
+
+How to structure a handoff document that enables AI agents to perform gap analysis and implementation planning—with traceable acceptance criteria, UI state inventories, and explicit business logic.
+
+Friday, February 13, 2026
+
 ### [Safely Selecting Elements with Special Characters Using CSS.escape()](https://schalkneethling.com/posts/safely-selecting-elements-with-special-characters-using-css-escape/)
 
 Learn how to safely select DOM elements with special characters in their IDs or classes using CSS.escape() to avoid selector parsing errors.
@@ -17,24 +35,6 @@ Tuesday, February 10, 2026
 Learn how to programmatically require the presence of a modifier key to enable scroll wheel zoom support in Leaflet maps.
 
 Saturday, February 7, 2026
-
-### [Using TypeScript Triple-Slash Directives with JSDoc](https://schalkneethling.com/posts/triple-slash-reference-directives-in-jsdoc/)
-
-How to use TypeScript’s triple-slash reference directives to load type definitions when type-checking JavaScript with JSDoc.
-
-Thursday, February 5, 2026
-
-### [Simplify Command-Line Argument Parsing with Node.js util.parseArgs()](https://schalkneethling.com/posts/simplify-command-line-argument-parsing-with-nodejs-util-parseargs/)
-
-Learn how to use Node.js util.parseArgs() to simplify command-line argument parsing in your Node.js CLI utilities.
-
-Wednesday, February 4, 2026
-
-### [Fast Mocked Responses in Playwright Getting You Down? Deferred Promises to the Rescue](https://schalkneethling.com/posts/fast-mocked-responses-in-playwright-getting-you-down-deferred-promises-to-the-rescue/)
-
-How to use deferred promises to control mock response timing in Playwright tests and avoid race conditions with instant responses.
-
-Friday, January 30, 2026
 <!-- /blog posts -->
 
 <!--
