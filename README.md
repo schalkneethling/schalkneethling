@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Mocking Browser Image Loading in Vitest: Property Descriptors, Prototypes, and WeakMap](https://schalkneethling.com/posts/mocking-browser-image-loading-in-vitest-property-descriptors-prototypes-and-weakmap/)
+
+A deep dive into the JavaScript concepts behind mocking HTMLImageElement behaviour in Vitest, including Object.defineProperty, Object.getOwnPropertyDescriptor, prototype manipulation, and WeakMap for per-instance state tracking.
+
+Friday, February 20, 2026
+
 ### [Part 3: Running an AI Agent Implementation Planning Session](https://schalkneethling.com/posts/part-3-running-an-ai-agent-implementation-planning-session/)
 
 How to structure an AI agent session with sequential tasks, review checkpoints, and explicit deliverables—turning a handoff document into actionable state machines, gap reports, and implementation plans.
@@ -29,12 +35,6 @@ Friday, February 13, 2026
 Learn how to safely select DOM elements with special characters in their IDs or classes using CSS.escape() to avoid selector parsing errors.
 
 Tuesday, February 10, 2026
-
-### [Dynamically enable and disable map scroll wheel zoom with Leaflet.js](https://schalkneethling.com/posts/dynamically-enable-and-disable-map-scroll-wheel-zoom-with-leaflet-js/)
-
-Learn how to programmatically require the presence of a modifier key to enable scroll wheel zoom support in Leaflet maps.
-
-Saturday, February 7, 2026
 <!-- /blog posts -->
 
 <!--
