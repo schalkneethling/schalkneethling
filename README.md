@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [CSS Anchor Positioning: Scoping, Implicit Anchors, and Conditional Hiding](https://schalkneethling.com/posts/css-anchor-positioning-scoping-implicit-anchors-and-conditional-hiding/)
+
+Manage anchor relationships with anchor-scope, leverage the Popover API's implicit anchors, and hide positioned elements gracefully with position-visibility.
+
+Saturday, February 21, 2026
+
 ### [Mocking Browser Image Loading in Vitest: Property Descriptors, Prototypes, and WeakMap](https://schalkneethling.com/posts/mocking-browser-image-loading-in-vitest-property-descriptors-prototypes-and-weakmap/)
 
 A deep dive into the JavaScript concepts behind mocking HTMLImageElement behaviour in Vitest, including Object.defineProperty, Object.getOwnPropertyDescriptor, prototype manipulation, and WeakMap for per-instance state tracking.
@@ -29,12 +35,6 @@ Saturday, February 14, 2026
 How to structure a handoff document that enables AI agents to perform gap analysis and implementation planning—with traceable acceptance criteria, UI state inventories, and explicit business logic.
 
 Friday, February 13, 2026
-
-### [Safely Selecting Elements with Special Characters Using CSS.escape()](https://schalkneethling.com/posts/safely-selecting-elements-with-special-characters-using-css-escape/)
-
-Learn how to safely select DOM elements with special characters in their IDs or classes using CSS.escape() to avoid selector parsing errors.
-
-Tuesday, February 10, 2026
 <!-- /blog posts -->
 
 <!--
