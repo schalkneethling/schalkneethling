@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [AI Gave Me Working Code. Questioning It Gave Me Better Code.](https://schalkneethling.com/posts/ai-gave-me-working-code-questioning-it-gave-me-better-code/)
+
+Working code isn't understood code. When AI-generated code feels hard to parse, that's a signal to ask questions, and sometimes, the answer leads to something better.
+
+Tuesday, March 3, 2026
+
 ### [Three Reasons Your scroll-snap Container May Be Overflowing on Mobile](https://schalkneethling.com/posts/three-reasons-your-scroll-snap-container-may-be-overflowing-on-mobile/)
 
 Take a fieldset, pour some radio buttons and visually hidden labels into it, wrap it in scroll-snap, and you have a clean, semantic horizontal scroller on mobile. What could go wrong? Well... there is nuance we need to talk about.
@@ -29,12 +35,6 @@ Saturday, February 21, 2026
 A deep dive into the JavaScript concepts behind mocking HTMLImageElement behaviour in Vitest, including Object.defineProperty, Object.getOwnPropertyDescriptor, prototype manipulation, and WeakMap for per-instance state tracking.
 
 Friday, February 20, 2026
-
-### [Part 3: Running an AI Agent Implementation Planning Session](https://schalkneethling.com/posts/part-3-running-an-ai-agent-implementation-planning-session/)
-
-How to structure an AI agent session with sequential tasks, review checkpoints, and explicit deliverables—turning a handoff document into actionable state machines, gap reports, and implementation plans.
-
-Sunday, February 15, 2026
 <!-- /blog posts -->
 
 <!--
