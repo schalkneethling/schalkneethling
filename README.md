@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Writing Cross-Platform Hooks for AI Coding Agents](https://schalkneethling.com/posts/writing-cross-platform-hooks-for-ai-coding-agents/)
+
+How to write a single hook script that works across Claude Code and Cursor, giving you deterministic control over agent behaviour when it matters most.
+
+Thursday, March 5, 2026
+
 ### [AI Gave Me Working Code. Questioning It Gave Me Better Code.](https://schalkneethling.com/posts/ai-gave-me-working-code-questioning-it-gave-me-better-code/)
 
 Working code isn't understood code. When AI-generated code feels hard to parse, that's a signal to ask questions, and sometimes, the answer leads to something better.
@@ -29,12 +35,6 @@ Thursday, February 26, 2026
 Manage anchor relationships with anchor-scope, leverage the Popover API's implicit anchors, and hide positioned elements gracefully with position-visibility.
 
 Saturday, February 21, 2026
-
-### [Mocking Browser Image Loading in Vitest: Property Descriptors, Prototypes, and WeakMap](https://schalkneethling.com/posts/mocking-browser-image-loading-in-vitest-property-descriptors-prototypes-and-weakmap/)
-
-A deep dive into the JavaScript concepts behind mocking HTMLImageElement behaviour in Vitest, including Object.defineProperty, Object.getOwnPropertyDescriptor, prototype manipulation, and WeakMap for per-instance state tracking.
-
-Friday, February 20, 2026
 <!-- /blog posts -->
 
 <!--
