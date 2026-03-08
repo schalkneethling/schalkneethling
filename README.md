@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Cleaner Temp Directory Cleanup in Node.js With mkdtempDisposable](https://schalkneethling.com/posts/cleaner-temp-directory-cleanup-in-nodejs-tests-with-mkdtempdisposable/)
+
+Working with temporary directories in Node.js just became cleaner and more intentional with mkdtempDisposable and explicit resource management.
+
+Sunday, March 8, 2026
+
 ### [Writing Cross-Platform Hooks for AI Coding Agents](https://schalkneethling.com/posts/writing-cross-platform-hooks-for-ai-coding-agents/)
 
 How to write a single hook script that works across Claude Code and Cursor, giving you deterministic control over agent behaviour when it matters most.
@@ -29,12 +35,6 @@ Friday, February 27, 2026
 A practical walkthrough for when you realise your feature branch was created from the wrong base, covering git log, merge parents, cherry-pick, and bypassing commit hooks.
 
 Thursday, February 26, 2026
-
-### [CSS Anchor Positioning: Scoping, Implicit Anchors, and Conditional Hiding](https://schalkneethling.com/posts/css-anchor-positioning-scoping-implicit-anchors-and-conditional-hiding/)
-
-Manage anchor relationships with anchor-scope, leverage the Popover API's implicit anchors, and hide positioned elements gracefully with position-visibility.
-
-Saturday, February 21, 2026
 <!-- /blog posts -->
 
 <!--
