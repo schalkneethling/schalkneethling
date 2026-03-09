@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Stop Storing Secrets on Disk — Replace Your .env With Varlock and 1Password](https://schalkneethling.com/posts/stop-storing-secrets-on-disk-replace-your-env-with-varlock-and-1password/)
+
+How I replaced my local .env file with Varlock and 1Password, gaining type safety, validation, secret scanning, and a single source of truth for environment variables.
+
+Monday, March 9, 2026
+
 ### [Cleaner Temp Directory Cleanup in Node.js With mkdtempDisposable](https://schalkneethling.com/posts/cleaner-temp-directory-cleanup-in-nodejs-tests-with-mkdtempdisposable/)
 
 Working with temporary directories in Node.js just became cleaner and more intentional with mkdtempDisposable and explicit resource management.
@@ -29,12 +35,6 @@ Tuesday, March 3, 2026
 Take a fieldset, pour some radio buttons and visually hidden labels into it, wrap it in scroll-snap, and you have a clean, semantic horizontal scroller on mobile. What could go wrong? Well... there is nuance we need to talk about.
 
 Friday, February 27, 2026
-
-### [Git: Recovering When You Branched From the Wrong Branch](https://schalkneethling.com/posts/git-recovering-when-you-branched-from-the-wrong-branch/)
-
-A practical walkthrough for when you realise your feature branch was created from the wrong base, covering git log, merge parents, cherry-pick, and bypassing commit hooks.
-
-Thursday, February 26, 2026
 <!-- /blog posts -->
 
 <!--
