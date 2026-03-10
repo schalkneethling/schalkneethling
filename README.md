@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Freeze Your Object Constants for Better Type Inference](https://schalkneethling.com/posts/freeze-your-object-constants-for-better-type-inference/)
+
+How combining JSDoc annotations with Object.freeze gives you literal type inference, runtime immutability, and better IDE support for JavaScript constant objects.
+
+Tuesday, March 10, 2026
+
 ### [Stop Storing Secrets on Disk — Replace Your .env With Varlock and 1Password](https://schalkneethling.com/posts/stop-storing-secrets-on-disk-replace-your-env-with-varlock-and-1password/)
 
 How I replaced my local .env file with Varlock and 1Password, gaining type safety, validation, secret scanning, and a single source of truth for environment variables.
@@ -29,12 +35,6 @@ Thursday, March 5, 2026
 Working code isn't understood code. When AI-generated code feels hard to parse, that's a signal to ask questions, and sometimes, the answer leads to something better.
 
 Tuesday, March 3, 2026
-
-### [Three Reasons Your scroll-snap Container May Be Overflowing on Mobile](https://schalkneethling.com/posts/three-reasons-your-scroll-snap-container-may-be-overflowing-on-mobile/)
-
-Take a fieldset, pour some radio buttons and visually hidden labels into it, wrap it in scroll-snap, and you have a clean, semantic horizontal scroller on mobile. What could go wrong? Well... there is nuance we need to talk about.
-
-Friday, February 27, 2026
 <!-- /blog posts -->
 
 <!--
