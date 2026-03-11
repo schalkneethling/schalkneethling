@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [The Prompt is the Product: Writing Effective Prompts for AI Coding Agents](https://schalkneethling.com/posts/the-prompt-is-the-product-writing-effective-prompts-for-ai-coding-agents/)
+
+How I structure prompts for AI coding agents to get considered implementation plans instead of premature code.
+
+Wednesday, March 11, 2026
+
 ### [Freeze Your Object Constants for Better Type Inference](https://schalkneethling.com/posts/freeze-your-object-constants-for-better-type-inference/)
 
 How combining JSDoc annotations with Object.freeze gives you literal type inference, runtime immutability, and better IDE support for JavaScript constant objects.
@@ -29,12 +35,6 @@ Sunday, March 8, 2026
 How to write a single hook script that works across Claude Code and Cursor, giving you deterministic control over agent behaviour when it matters most.
 
 Thursday, March 5, 2026
-
-### [AI Gave Me Working Code. Questioning It Gave Me Better Code.](https://schalkneethling.com/posts/ai-gave-me-working-code-questioning-it-gave-me-better-code/)
-
-Working code isn't understood code. When AI-generated code feels hard to parse, that's a signal to ask questions, and sometimes, the answer leads to something better.
-
-Tuesday, March 3, 2026
 <!-- /blog posts -->
 
 <!--
