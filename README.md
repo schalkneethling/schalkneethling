@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Accessible Text Colour with the CSS contrast-color() Function](https://schalkneethling.com/posts/accessible-text-colour-with-the-css-contrast-color-function/)
+
+The CSS contrast-color() function lets the browser pick the most readable text colour for any background. Here is what it does, how it works, and why it matters for accessibility and the web.
+
+Monday, March 16, 2026
+
 ### [The Prompt is the Product: Writing Effective Prompts for AI Coding Agents](https://schalkneethling.com/posts/the-prompt-is-the-product-writing-effective-prompts-for-ai-coding-agents/)
 
 How I structure prompts for AI coding agents to get considered implementation plans instead of premature code.
@@ -29,12 +35,6 @@ Monday, March 9, 2026
 Working with temporary directories in Node.js just became cleaner and more intentional with mkdtempDisposable and explicit resource management.
 
 Sunday, March 8, 2026
-
-### [Writing Cross-Platform Hooks for AI Coding Agents](https://schalkneethling.com/posts/writing-cross-platform-hooks-for-ai-coding-agents/)
-
-How to write a single hook script that works across Claude Code and Cursor, giving you deterministic control over agent behaviour when it matters most.
-
-Thursday, March 5, 2026
 <!-- /blog posts -->
 
 <!--
