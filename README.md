@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Auto-Improving an Agent Skill: Applying Karpathy's Autoresearch Pattern to Semantic HTML](https://schalkneethling.com/posts/auto-improving-an-agent-skill-applying-karpathy-s-autoresearch-pattern-to-semantic-html/)
+
+How I built an eval-judge-improve loop to autonomously refine a semantic HTML agent skill, taking it from 2.46 to 2.89 out of 3.0 across four iterations and what I learned about the limits of automated improvement.
+
+Friday, March 20, 2026
+
 ### [Accessible Text Colour with the CSS contrast-color() Function](https://schalkneethling.com/posts/accessible-text-colour-with-the-css-contrast-color-function/)
 
 The CSS contrast-color() function lets the browser pick the most readable text colour for any background. Here is what it does, how it works, and why it matters for accessibility and the web.
@@ -29,12 +35,6 @@ Tuesday, March 10, 2026
 How I replaced my local .env file with Varlock and 1Password, gaining type safety, validation, secret scanning, and a single source of truth for environment variables.
 
 Monday, March 9, 2026
-
-### [Cleaner Temp Directory Cleanup in Node.js With mkdtempDisposable](https://schalkneethling.com/posts/cleaner-temp-directory-cleanup-in-nodejs-tests-with-mkdtempdisposable/)
-
-Working with temporary directories in Node.js just became cleaner and more intentional with mkdtempDisposable and explicit resource management.
-
-Sunday, March 8, 2026
 <!-- /blog posts -->
 
 <!--
