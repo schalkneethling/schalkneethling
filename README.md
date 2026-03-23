@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Comparing Sets in JavaScript With difference() and symmetricDifference()](https://schalkneethling.com/posts/comparing-sets-in-javascript-with-difference-and-symmetricdifference/)
+
+How the new Set methods difference() and symmetricDifference() can replace verbose Set comparisons with clear, expressive code.
+
+Monday, March 23, 2026
+
 ### [Timelapse: A PWA - Putting Cursor's Composer 2 To The Test](https://schalkneethling.com/posts/timelapse-a-pwa-putting-cursors-composer-2-to-the-test/)
 
 Timelapse is a progressive web app (PWA) with acollection of widgets that shows how much time has elapsed in the day, week, month, quarter, and year. Widgets and timezone are configurable.
@@ -29,12 +35,6 @@ Monday, March 16, 2026
 How I structure prompts for AI coding agents to get considered implementation plans instead of premature code.
 
 Wednesday, March 11, 2026
-
-### [Freeze Your Object Constants for Better Type Inference](https://schalkneethling.com/posts/freeze-your-object-constants-for-better-type-inference/)
-
-How combining JSDoc annotations with Object.freeze gives you literal type inference, runtime immutability, and better IDE support for JavaScript constant objects.
-
-Tuesday, March 10, 2026
 <!-- /blog posts -->
 
 <!--
