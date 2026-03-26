@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Cutting Across The What And The How: What Building A Polyfill Is Teaching Me About Web Standards](https://schalkneethling.com/posts/cutting-across-the-what-and-the-how-what-building-a-polyfill-is-teaching-me-about-web-standards/)
+
+What happens when you try to implement two seemingly straightforward CSS features as a JavaScript polyfill? You discover that specifications are simple because they made hard decisions, and the complexity does not disappear; it just moves.
+
+Thursday, March 26, 2026
+
 ### [Comparing Sets in JavaScript With difference() and symmetricDifference()](https://schalkneethling.com/posts/comparing-sets-in-javascript-with-difference-and-symmetricdifference/)
 
 How the new Set methods difference() and symmetricDifference() can replace verbose Set comparisons with clear, expressive code.
@@ -29,12 +35,6 @@ Friday, March 20, 2026
 The CSS contrast-color() function lets the browser pick the most readable text colour for any background. Here is what it does, how it works, and why it matters for accessibility and the web.
 
 Monday, March 16, 2026
-
-### [The Prompt is the Product: Writing Effective Prompts for AI Coding Agents](https://schalkneethling.com/posts/the-prompt-is-the-product-writing-effective-prompts-for-ai-coding-agents/)
-
-How I structure prompts for AI coding agents to get considered implementation plans instead of premature code.
-
-Wednesday, March 11, 2026
 <!-- /blog posts -->
 
 <!--
