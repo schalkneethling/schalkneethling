@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Semantic HTML Just Might Make Your CSS Less Fragile](https://schalkneethling.com/posts/semantic-html-just-might-make-your-css-less-fragile/)
+
+A real-world exploration of how choosing the right HTML elements for interview transcripts solves both semantic and styling challenges in one cascading swoop.
+
+Monday, March 30, 2026
+
 ### [Cutting Across The What And The How: What Building A Polyfill Is Teaching Me About Web Standards](https://schalkneethling.com/posts/cutting-across-the-what-and-the-how-what-building-a-polyfill-is-teaching-me-about-web-standards/)
 
 What happens when you try to implement two seemingly straightforward CSS features as a JavaScript polyfill? You discover that specifications are simple because they made hard decisions, and the complexity does not disappear; it just moves.
@@ -29,12 +35,6 @@ Sunday, March 22, 2026
 How I built an eval-judge-improve loop to autonomously refine a semantic HTML agent skill, taking it from 2.46 to 2.89 out of 3.0 across four iterations and what I learned about the limits of automated improvement.
 
 Friday, March 20, 2026
-
-### [Accessible Text Colour with the CSS contrast-color() Function](https://schalkneethling.com/posts/accessible-text-colour-with-the-css-contrast-color-function/)
-
-The CSS contrast-color() function lets the browser pick the most readable text colour for any background. Here is what it does, how it works, and why it matters for accessibility and the web.
-
-Monday, March 16, 2026
 <!-- /blog posts -->
 
 <!--
