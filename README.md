@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Aligning Variable Content Across Columns. It Seems Impossible Until You Discover Subgrid](https://schalkneethling.com/posts/aligning-variable-content-across-columns-it-seems-impossible-until-you-discover-subgrid/)
+
+A layout that seems impossible; aligning titles and dividers across sibling cards regardless of content length. No JavaScript, no table layouts, just CSS subgrid.
+
+Wednesday, April 1, 2026
+
 ### [Semantic HTML Just Might Make Your CSS Less Fragile](https://schalkneethling.com/posts/semantic-html-just-might-make-your-css-less-fragile/)
 
 A real-world exploration of how choosing the right HTML elements for interview transcripts solves both semantic and styling challenges in one cascading swoop.
@@ -29,12 +35,6 @@ Monday, March 23, 2026
 Timelapse is a progressive web app (PWA) with acollection of widgets that shows how much time has elapsed in the day, week, month, quarter, and year. Widgets and timezone are configurable.
 
 Sunday, March 22, 2026
-
-### [Auto-Improving an Agent Skill: Applying Karpathy's Autoresearch Pattern to Semantic HTML](https://schalkneethling.com/posts/auto-improving-an-agent-skill-applying-karpathy-s-autoresearch-pattern-to-semantic-html/)
-
-How I built an eval-judge-improve loop to autonomously refine a semantic HTML agent skill, taking it from 2.46 to 2.89 out of 3.0 across four iterations and what I learned about the limits of automated improvement.
-
-Friday, March 20, 2026
 <!-- /blog posts -->
 
 <!--
