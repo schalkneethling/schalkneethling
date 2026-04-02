@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [CSS @property Deserves Better Tooling — So I Am Building a Validator](https://schalkneethling.com/posts/css-property-deserves-better-tooling-so-i-am-building-a-validator/)
+
+CSS @property gives authors a type contract for custom properties, but no tooling enforces it at the consumption site. CSS Property Type Validator is an attempt to close this gap.
+
+Thursday, April 2, 2026
+
 ### [Aligning Variable Content Across Columns. It Seems Impossible Until You Discover Subgrid](https://schalkneethling.com/posts/aligning-variable-content-across-columns-it-seems-impossible-until-you-discover-subgrid/)
 
 A layout that seems impossible; aligning titles and dividers across sibling cards regardless of content length. No JavaScript, no table layouts, just CSS subgrid.
@@ -29,12 +35,6 @@ Thursday, March 26, 2026
 How the new Set methods difference() and symmetricDifference() can replace verbose Set comparisons with clear, expressive code.
 
 Monday, March 23, 2026
-
-### [Timelapse: A PWA - Putting Cursor's Composer 2 To The Test](https://schalkneethling.com/posts/timelapse-a-pwa-putting-cursors-composer-2-to-the-test/)
-
-Timelapse is a progressive web app (PWA) with acollection of widgets that shows how much time has elapsed in the day, week, month, quarter, and year. Widgets and timezone are configurable.
-
-Sunday, March 22, 2026
 <!-- /blog posts -->
 
 <!--
