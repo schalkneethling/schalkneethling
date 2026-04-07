@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [The Process of Shipping The CSS Media Pseudo Classes Polyfill](https://schalkneethling.com/posts/the-process-of-shipping-the-css-media-pseudo-classes-polyfill/)
+
+The CSS Media Pseudo Classes Polyfill is now available on npm. This post covers what shipped, what I learned about the CSSOM and unsupported CSS, how you can try it, and what comes next.
+
+Tuesday, April 7, 2026
+
 ### [CSS @property Deserves Better Tooling — So I Am Building a Validator](https://schalkneethling.com/posts/css-property-deserves-better-tooling-so-i-am-building-a-validator/)
 
 CSS @property gives authors a type contract for custom properties, but no tooling enforces it at the consumption site. CSS Property Type Validator is an attempt to close this gap.
@@ -29,12 +35,6 @@ Monday, March 30, 2026
 What happens when you try to implement two seemingly straightforward CSS features as a JavaScript polyfill? You discover that specifications are simple because they made hard decisions, and the complexity does not disappear; it just moves.
 
 Thursday, March 26, 2026
-
-### [Comparing Sets in JavaScript With difference() and symmetricDifference()](https://schalkneethling.com/posts/comparing-sets-in-javascript-with-difference-and-symmetricdifference/)
-
-How the new Set methods difference() and symmetricDifference() can replace verbose Set comparisons with clear, expressive code.
-
-Monday, March 23, 2026
 <!-- /blog posts -->
 
 <!--
