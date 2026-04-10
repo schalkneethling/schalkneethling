@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Panozoom: The Accidental Web App](https://schalkneethling.com/posts/panozoom-the-accidental-web-app/)
+
+What started as a question about a free macOS image viewer turned into a deep dive into pan and zoom math, pointer events, WheelEvent quirks, and a TypeScript web component. Here is everything we learned along the way.
+
+Friday, April 10, 2026
+
 ### [The Process of Shipping The CSS Media Pseudo Classes Polyfill](https://schalkneethling.com/posts/the-process-of-shipping-the-css-media-pseudo-classes-polyfill/)
 
 The CSS Media Pseudo Classes Polyfill is now available on npm. This post covers what shipped, what I learned about the CSSOM and unsupported CSS, how you can try it, and what comes next.
@@ -29,12 +35,6 @@ Wednesday, April 1, 2026
 A real-world exploration of how choosing the right HTML elements for interview transcripts solves both semantic and styling challenges in one cascading swoop.
 
 Monday, March 30, 2026
-
-### [Cutting Across The What And The How: What Building A Polyfill Is Teaching Me About Web Standards](https://schalkneethling.com/posts/cutting-across-the-what-and-the-how-what-building-a-polyfill-is-teaching-me-about-web-standards/)
-
-What happens when you try to implement two seemingly straightforward CSS features as a JavaScript polyfill? You discover that specifications are simple because they made hard decisions, and the complexity does not disappear; it just moves.
-
-Thursday, March 26, 2026
 <!-- /blog posts -->
 
 <!--
