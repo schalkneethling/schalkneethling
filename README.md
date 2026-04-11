@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [TypeScript 6.0 and CSS Side-Effect Imports: What Changed and How to Fix It](https://schalkneethling.com/posts/typescript-6-0-and-css-side-effect-imports-what-changed-and-how-to-fix-it/)
+
+TypeScript 6.0 enables noUncheckedSideEffectImports by default, which causes a TS2882 error for CSS side-effect imports like import './style.css'. Here is what changed, why, and how to fix it.
+
+Saturday, April 11, 2026
+
 ### [Panozoom: The Accidental Web App](https://schalkneethling.com/posts/panozoom-the-accidental-web-app/)
 
 What started as a question about a free macOS image viewer turned into a deep dive into pan and zoom math, pointer events, WheelEvent quirks, and a TypeScript web component. Here is everything we learned along the way.
@@ -29,12 +35,6 @@ Thursday, April 2, 2026
 A layout that seems impossible; aligning titles and dividers across sibling cards regardless of content length. No JavaScript, no table layouts, just CSS subgrid.
 
 Wednesday, April 1, 2026
-
-### [Semantic HTML Just Might Make Your CSS Less Fragile](https://schalkneethling.com/posts/semantic-html-just-might-make-your-css-less-fragile/)
-
-A real-world exploration of how choosing the right HTML elements for interview transcripts solves both semantic and styling challenges in one cascading swoop.
-
-Monday, March 30, 2026
 <!-- /blog posts -->
 
 <!--
