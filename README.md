@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Pushing to GitHub and Codeberg Simultaneously with Git](https://schalkneethling.com/posts/pushing-to-github-and-codeberg-simultaneously-with-git/)
+
+Learn how to configure Git to push your code to both GitHub and Codeberg with a single command, including SSH key setup and a handy shell alias for branch-specific control.
+
+Sunday, April 12, 2026
+
 ### [TypeScript 6.0 and CSS Side-Effect Imports: What Changed and How to Fix It](https://schalkneethling.com/posts/typescript-6-0-and-css-side-effect-imports-what-changed-and-how-to-fix-it/)
 
 TypeScript 6.0 enables noUncheckedSideEffectImports by default, which causes a TS2882 error for CSS side-effect imports like import './style.css'. Here is what changed, why, and how to fix it.
@@ -29,12 +35,6 @@ Tuesday, April 7, 2026
 CSS @property gives authors a type contract for custom properties, but no tooling enforces it at the consumption site. CSS Property Type Validator is an attempt to close this gap.
 
 Thursday, April 2, 2026
-
-### [Aligning Variable Content Across Columns. It Seems Impossible Until You Discover Subgrid](https://schalkneethling.com/posts/aligning-variable-content-across-columns-it-seems-impossible-until-you-discover-subgrid/)
-
-A layout that seems impossible; aligning titles and dividers across sibling cards regardless of content length. No JavaScript, no table layouts, just CSS subgrid.
-
-Wednesday, April 1, 2026
 <!-- /blog posts -->
 
 <!--
