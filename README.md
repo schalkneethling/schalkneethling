@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [CSS Property Type Validator: Assignment-Site Validation](https://schalkneethling.com/posts/css-property-type-validator-assignment-site-validation/)
+
+The CSS property type validator now catches type mismatches at the point of assignment, not just at var() usage.
+
+Monday, April 13, 2026
+
 ### [Pushing to GitHub and Codeberg Simultaneously with Git](https://schalkneethling.com/posts/pushing-to-github-and-codeberg-simultaneously-with-git/)
 
 Learn how to configure Git to push your code to both GitHub and Codeberg with a single command, including SSH key setup and a handy shell alias for branch-specific control.
@@ -29,12 +35,6 @@ Friday, April 10, 2026
 The CSS Media Pseudo Classes Polyfill is now available on npm. This post covers what shipped, what I learned about the CSSOM and unsupported CSS, how you can try it, and what comes next.
 
 Tuesday, April 7, 2026
-
-### [CSS @property Deserves Better Tooling — So I Am Building a Validator](https://schalkneethling.com/posts/css-property-deserves-better-tooling-so-i-am-building-a-validator/)
-
-CSS @property gives authors a type contract for custom properties, but no tooling enforces it at the consumption site. CSS Property Type Validator is an attempt to close this gap.
-
-Thursday, April 2, 2026
 <!-- /blog posts -->
 
 <!--
