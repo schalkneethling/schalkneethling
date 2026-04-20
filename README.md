@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Building a 3D Climate News Globe with HTML in Canvas and Three.js](https://schalkneethling.com/posts/building-a-3d-climate-news-globe-with-html-in-canvas-and-three-js/)
+
+A deep dive into Blue Earth, an experiment that plots positive climate news stories on a rotating 3D globe using the HTML in Canvas API, Three.js, and a build-time pipeline powered by Claude and Geoapify.
+
+Monday, April 20, 2026
+
 ### [Introducing masonry-gridlanes-wc: A Native-First Masonry Web Component](https://schalkneethling.com/posts/introducing-masonry-gridlanes-wc-a-native-first-masonry-web-component/)
 
 A light-DOM custom element for CSS masonry layouts that uses display: grid-lanes when available and falls back to a spec-aligned JavaScript placement engine. Version 0.1.0 is ready for real projects.
@@ -29,12 +35,6 @@ Sunday, April 12, 2026
 TypeScript 6.0 enables noUncheckedSideEffectImports by default, which causes a TS2882 error for CSS side-effect imports like import './style.css'. Here is what changed, why, and how to fix it.
 
 Saturday, April 11, 2026
-
-### [Panozoom: The Accidental Web App](https://schalkneethling.com/posts/panozoom-the-accidental-web-app/)
-
-What started as a question about a free macOS image viewer turned into a deep dive into pan and zoom math, pointer events, WheelEvent quirks, and a TypeScript web component. Here is everything we learned along the way.
-
-Friday, April 10, 2026
 <!-- /blog posts -->
 
 <!--
