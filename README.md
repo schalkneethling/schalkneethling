@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Targeting SVG Images with CSS Attribute Selectors and filter: invert()](https://schalkneethling.com/posts/targeting-svg-images-with-css-attribute-selectors-and-filter-invert/)
+
+When you cannot inline an SVG or use it as a mask-image, a combination of the ends-with attribute selector and filter: invert() offers a clean, CSS-only solution for adapting icon colours across themes.
+
+Wednesday, April 22, 2026
+
 ### [Building a 3D Climate News Globe with HTML in Canvas and Three.js](https://schalkneethling.com/posts/building-a-3d-climate-news-globe-with-html-in-canvas-and-three-js/)
 
 A deep dive into Blue Earth, an experiment that plots positive climate news stories on a rotating 3D globe using the HTML in Canvas API, Three.js, and a build-time pipeline powered by Claude and Geoapify.
@@ -29,12 +35,6 @@ Monday, April 13, 2026
 Learn how to configure Git to push your code to both GitHub and Codeberg with a single command, including SSH key setup and a handy shell alias for branch-specific control.
 
 Sunday, April 12, 2026
-
-### [TypeScript 6.0 and CSS Side-Effect Imports: What Changed and How to Fix It](https://schalkneethling.com/posts/typescript-6-0-and-css-side-effect-imports-what-changed-and-how-to-fix-it/)
-
-TypeScript 6.0 enables noUncheckedSideEffectImports by default, which causes a TS2882 error for CSS side-effect imports like import './style.css'. Here is what changed, why, and how to fix it.
-
-Saturday, April 11, 2026
 <!-- /blog posts -->
 
 <!--
