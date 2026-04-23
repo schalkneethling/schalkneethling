@@ -12,6 +12,12 @@ When you cannot inline an SVG or use it as a mask-image, a combination of the en
 
 Wednesday, April 22, 2026
 
+### [CSS Property Type Validator Is Getting Much Closer to Real-World CSS Workflows](https://schalkneethling.com/posts/css-property-type-validator-is-getting-much-closer-to-real-world-css-workflows/)
+
+An update on the CSS Property Type Validator, focusing on recent improvements that make it better suited to practical, real-world CSS development workflows.
+
+Wednesday, April 22, 2026
+
 ### [Building a 3D Climate News Globe with HTML in Canvas and Three.js](https://schalkneethling.com/posts/building-a-3d-climate-news-globe-with-html-in-canvas-and-three-js/)
 
 A deep dive into Blue Earth, an experiment that plots positive climate news stories on a rotating 3D globe using the HTML in Canvas API, Three.js, and a build-time pipeline powered by Claude and Geoapify.
@@ -29,12 +35,6 @@ Tuesday, April 14, 2026
 The CSS property type validator now catches type mismatches at the point of assignment, not just at var() usage.
 
 Monday, April 13, 2026
-
-### [Pushing to GitHub and Codeberg Simultaneously with Git](https://schalkneethling.com/posts/pushing-to-github-and-codeberg-simultaneously-with-git/)
-
-Learn how to configure Git to push your code to both GitHub and Codeberg with a single command, including SSH key setup and a handy shell alias for branch-specific control.
-
-Sunday, April 12, 2026
 <!-- /blog posts -->
 
 <!--
