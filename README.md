@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Refined Plan Mode: Reviewing AI Coding Plans Like Pull Requests](https://schalkneethling.com/posts/refined-plan-mode-reviewing-ai-coding-plans-like-pull-requests/)
+
+A small local web app for reviewing AI-generated coding plans with inline comments, anchored feedback, and structured JSON output, bringing the pull request review experience to plan mode.
+
+Monday, April 27, 2026
+
 ### [Targeting SVG Images with CSS Attribute Selectors and filter: invert()](https://schalkneethling.com/posts/targeting-svg-images-with-css-attribute-selectors-and-filter-invert/)
 
 When you cannot inline an SVG or use it as a mask-image, a combination of the ends-with attribute selector and filter: invert() offers a clean, CSS-only solution for adapting icon colours across themes.
@@ -29,12 +35,6 @@ Monday, April 20, 2026
 A light-DOM custom element for CSS masonry layouts that uses display: grid-lanes when available and falls back to a spec-aligned JavaScript placement engine. Version 0.1.0 is ready for real projects.
 
 Tuesday, April 14, 2026
-
-### [CSS Property Type Validator: Assignment-Site Validation](https://schalkneethling.com/posts/css-property-type-validator-assignment-site-validation/)
-
-The CSS property type validator now catches type mismatches at the point of assignment, not just at var() usage.
-
-Monday, April 13, 2026
 <!-- /blog posts -->
 
 <!--
