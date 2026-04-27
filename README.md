@@ -12,15 +12,15 @@ A small local web app for reviewing AI-generated coding plans with inline commen
 
 Monday, April 27, 2026
 
-### [Targeting SVG Images with CSS Attribute Selectors and filter: invert()](https://schalkneethling.com/posts/targeting-svg-images-with-css-attribute-selectors-and-filter-invert/)
-
-When you cannot inline an SVG or use it as a mask-image, a combination of the ends-with attribute selector and filter: invert() offers a clean, CSS-only solution for adapting icon colours across themes.
-
-Wednesday, April 22, 2026
-
 ### [CSS Property Type Validator Is Getting Much Closer to Real-World CSS Workflows](https://schalkneethling.com/posts/css-property-type-validator-is-getting-much-closer-to-real-world-css-workflows/)
 
 An update on the CSS Property Type Validator, focusing on recent improvements that make it better suited to practical, real-world CSS development workflows.
+
+Wednesday, April 22, 2026
+
+### [Targeting SVG Images with CSS Attribute Selectors and filter: invert()](https://schalkneethling.com/posts/targeting-svg-images-with-css-attribute-selectors-and-filter-invert/)
+
+When you cannot inline an SVG or use it as a mask-image, a combination of the ends-with attribute selector and filter: invert() offers a clean, CSS-only solution for adapting icon colours across themes.
 
 Wednesday, April 22, 2026
 
