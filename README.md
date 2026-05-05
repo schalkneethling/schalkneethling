@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [The First Real Autoresearch Run Was Expensive, Messy, and Extremely Useful](https://schalkneethling.com/posts/the-first-real-autoresearch-run-was-expensive-messy-and-extremely-useful/)
+
+I pointed the skills autoresearch harness at a real frontend security project. It cost roughly four dollars, failed before completing a full improvement loop, and taught me more than any of the earlier test runs combined.
+
+Tuesday, May 5, 2026
+
 ### [Refined Plan Mode: Reviewing AI Coding Plans Like Pull Requests](https://schalkneethling.com/posts/refined-plan-mode-reviewing-ai-coding-plans-like-pull-requests/)
 
 A small local web app for reviewing AI-generated coding plans with inline comments, anchored feedback, and structured JSON output, bringing the pull request review experience to plan mode.
@@ -29,12 +35,6 @@ Wednesday, April 22, 2026
 A deep dive into Blue Earth, an experiment that plots positive climate news stories on a rotating 3D globe using the HTML in Canvas API, Three.js, and a build-time pipeline powered by Claude and Geoapify.
 
 Monday, April 20, 2026
-
-### [Introducing masonry-gridlanes-wc: A Native-First Masonry Web Component](https://schalkneethling.com/posts/introducing-masonry-gridlanes-wc-a-native-first-masonry-web-component/)
-
-A light-DOM custom element for CSS masonry layouts that uses display: grid-lanes when available and falls back to a spec-aligned JavaScript placement engine. Version 0.1.0 is ready for real projects.
-
-Tuesday, April 14, 2026
 <!-- /blog posts -->
 
 <!--
