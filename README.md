@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Announcing the CSS Property Type Validator Extension for VSCode](https://schalkneethling.com/posts/announcing-the-css-property-type-validator-vscode-extension/)
+
+A new editor extension that validates your CSS @property registrations and catches incompatible var() usage as you type.
+
+Thursday, May 7, 2026
+
 ### [The First Real Autoresearch Run Was Expensive, Messy, and Extremely Useful](https://schalkneethling.com/posts/the-first-real-autoresearch-run-was-expensive-messy-and-extremely-useful/)
 
 I pointed the skills autoresearch harness at a real frontend security project. It cost roughly four dollars, failed before completing a full improvement loop, and taught me more than any of the earlier test runs combined.
@@ -29,12 +35,6 @@ Wednesday, April 22, 2026
 When you cannot inline an SVG or use it as a mask-image, a combination of the ends-with attribute selector and filter: invert() offers a clean, CSS-only solution for adapting icon colours across themes.
 
 Wednesday, April 22, 2026
-
-### [Building a 3D Climate News Globe with HTML in Canvas and Three.js](https://schalkneethling.com/posts/building-a-3d-climate-news-globe-with-html-in-canvas-and-three-js/)
-
-A deep dive into Blue Earth, an experiment that plots positive climate news stories on a rotating 3D globe using the HTML in Canvas API, Three.js, and a build-time pipeline powered by Claude and Geoapify.
-
-Monday, April 20, 2026
 <!-- /blog posts -->
 
 <!--
