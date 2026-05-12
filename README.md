@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [The day CSS made me learn algebra again, and I liked it](https://schalkneethling.com/posts/the-day-css-made-me-learn-algebra-and-i-liked-it/)
+
+A carousel overlay bug led me to a deep dive into fluid typography, container queries, and understanding clamp().
+
+Tuesday, May 12, 2026
+
 ### [Branded Types in TypeScript: Making the Compiler Care About Meaning](https://schalkneethling.com/posts/branded-types-in-typescript/)
 
 TypeScript's structural typing means two types with the same shape are interchangeable, but sometimes this is not what you want. Branded types fix that by adding a phantom property the compiler tracks, but that vanishes at runtime. 👻
@@ -29,12 +35,6 @@ Tuesday, May 5, 2026
 A small local web app for reviewing AI-generated coding plans with inline comments, anchored feedback, and structured JSON output, bringing the pull request review experience to plan mode.
 
 Monday, April 27, 2026
-
-### [CSS Property Type Validator Is Getting Much Closer to Real-World CSS Workflows](https://schalkneethling.com/posts/css-property-type-validator-is-getting-much-closer-to-real-world-css-workflows/)
-
-An update on the CSS Property Type Validator, focusing on recent improvements that make it better suited to practical, real-world CSS development workflows.
-
-Wednesday, April 22, 2026
 <!-- /blog posts -->
 
 <!--
