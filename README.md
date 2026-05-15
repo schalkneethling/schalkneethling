@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [The Security of Ephemeral Pages](https://schalkneethling.com/posts/the-security-of-ephemeral-pages/)
+
+A walkthrough of the security vulnerabilities flagged by an AI agent skill review of Ephemeral Pages, and the mitigations put in place as a result.
+
+Friday, May 15, 2026
+
 ### [The day CSS made me learn algebra again, and I liked it](https://schalkneethling.com/posts/the-day-css-made-me-learn-algebra-and-i-liked-it/)
 
 A carousel overlay bug led me to a deep dive into fluid typography, container queries, and understanding clamp().
@@ -29,12 +35,6 @@ Thursday, May 7, 2026
 I pointed the skills autoresearch harness at a real frontend security project. It cost roughly four dollars, failed before completing a full improvement loop, and taught me more than any of the earlier test runs combined.
 
 Tuesday, May 5, 2026
-
-### [Refined Plan Mode: Reviewing AI Coding Plans Like Pull Requests](https://schalkneethling.com/posts/refined-plan-mode-reviewing-ai-coding-plans-like-pull-requests/)
-
-A small local web app for reviewing AI-generated coding plans with inline comments, anchored feedback, and structured JSON output, bringing the pull request review experience to plan mode.
-
-Monday, April 27, 2026
 <!-- /blog posts -->
 
 <!--
