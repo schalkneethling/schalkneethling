@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Announcing Axe Aggregate Reporter: run, report, view, and share a11y results](https://schalkneethling.com/posts/announcing-axe-aggregate-reporter-run-report-view-share-playwright-a11y-results/)
+
+A Playwright reporter paired with a dependency-free viewer that turns axe accessibility results into one report your team can actually read, share, and act on.
+
+Monday, May 25, 2026
+
 ### [The Security of Ephemeral Pages](https://schalkneethling.com/posts/the-security-of-ephemeral-pages/)
 
 A walkthrough of the security vulnerabilities flagged by an AI agent skill review of Ephemeral Pages, and the mitigations put in place as a result.
@@ -29,12 +35,6 @@ Sunday, May 10, 2026
 A new editor extension that validates your CSS @property registrations and catches incompatible var() usage as you type.
 
 Thursday, May 7, 2026
-
-### [The First Real Autoresearch Run Was Expensive, Messy, and Extremely Useful](https://schalkneethling.com/posts/the-first-real-autoresearch-run-was-expensive-messy-and-extremely-useful/)
-
-I pointed the skills autoresearch harness at a real frontend security project. It cost roughly four dollars, failed before completing a full improvement loop, and taught me more than any of the earlier test runs combined.
-
-Tuesday, May 5, 2026
 <!-- /blog posts -->
 
 <!--
