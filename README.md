@@ -6,6 +6,18 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Introducing the CSS Property Type Validator Stylelint Plugin](https://schalkneethling.com/posts/introducing-the-css-property-type-validator-stylelint-plugin/)
+
+The first beta of the Stylelint plugin for CSS Property Type Validator brings typed custom property validation directly into your existing CSS linting workflow.
+
+Friday, May 29, 2026
+
+### [Live Page Content Updates with Supabase Realtime and Web Sockets](https://schalkneethling.com/posts/live-page-content-updates-with-supabase-realtime-and-web-sockets/)
+
+How to use Supabase Realtime and Web Sockets to live-update page content in a single-page app.
+
+Thursday, May 28, 2026
+
 ### [Announcing Axe Aggregate Reporter: run, report, view, and share a11y results](https://schalkneethling.com/posts/announcing-axe-aggregate-reporter-run-report-view-share-playwright-a11y-results/)
 
 A Playwright reporter paired with a dependency-free viewer that turns axe accessibility results into one report your team can actually read, share, and act on.
@@ -23,18 +35,6 @@ Friday, May 15, 2026
 A carousel overlay bug led me to a deep dive into fluid typography, container queries, and understanding clamp().
 
 Tuesday, May 12, 2026
-
-### [Branded Types in TypeScript: Making the Compiler Care About Meaning](https://schalkneethling.com/posts/branded-types-in-typescript/)
-
-TypeScript's structural typing means two types with the same shape are interchangeable, but sometimes this is not what you want. Branded types fix that by adding a phantom property the compiler tracks, but that vanishes at runtime. 👻
-
-Sunday, May 10, 2026
-
-### [Announcing the CSS Property Type Validator Extension for VSCode](https://schalkneethling.com/posts/announcing-the-css-property-type-validator-vscode-extension/)
-
-A new editor extension that validates your CSS @property registrations and catches incompatible var() usage as you type.
-
-Thursday, May 7, 2026
 <!-- /blog posts -->
 
 <!--
