@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [Lowering the Barrier to CSS @property Adoption](https://schalkneethling.com/posts/lowering-the-barrier-to-css-atproperty-adoption/)
+
+CSS @property has been Baseline for almost two years, but most existing projects still do not use it. A small experiment in the CSS Property Type Validator generates a reviewable first draft of @property registrations from the custom properties you already have.
+
+Monday, June 1, 2026
+
 ### [Introducing the CSS Property Type Validator Stylelint Plugin](https://schalkneethling.com/posts/introducing-the-css-property-type-validator-stylelint-plugin/)
 
 The first beta of the Stylelint plugin for CSS Property Type Validator brings typed custom property validation directly into your existing CSS linting workflow.
@@ -29,12 +35,6 @@ Monday, May 25, 2026
 A walkthrough of the security vulnerabilities flagged by an AI agent skill review of Ephemeral Pages, and the mitigations put in place as a result.
 
 Friday, May 15, 2026
-
-### [The day CSS made me learn algebra again, and I liked it](https://schalkneethling.com/posts/the-day-css-made-me-learn-algebra-and-i-liked-it/)
-
-A carousel overlay bug led me to a deep dive into fluid typography, container queries, and understanding clamp().
-
-Tuesday, May 12, 2026
 <!-- /blog posts -->
 
 <!--
