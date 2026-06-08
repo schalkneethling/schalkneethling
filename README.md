@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [@function — Native Custom Functions in CSS](https://schalkneethling.com/posts/css-at-function-native-functions-in-css/)
+
+CSS now has user-defined functions. No preprocessor, no JavaScript, but native @function with typed parameters, local variables, and conditional logic built right into your CSS.
+
+Monday, June 8, 2026
+
 ### [Lowering the Barrier to CSS @property Adoption](https://schalkneethling.com/posts/lowering-the-barrier-to-css-atproperty-adoption/)
 
 CSS @property has been Baseline for almost two years, but most existing projects still do not use it. A small experiment in the CSS Property Type Validator generates a reviewable first draft of @property registrations from the custom properties you already have.
@@ -29,12 +35,6 @@ Thursday, May 28, 2026
 A Playwright reporter paired with a dependency-free viewer that turns axe accessibility results into one report your team can actually read, share, and act on.
 
 Monday, May 25, 2026
-
-### [The Security of Ephemeral Pages](https://schalkneethling.com/posts/the-security-of-ephemeral-pages/)
-
-A walkthrough of the security vulnerabilities flagged by an AI agent skill review of Ephemeral Pages, and the mitigations put in place as a result.
-
-Friday, May 15, 2026
 <!-- /blog posts -->
 
 <!--
