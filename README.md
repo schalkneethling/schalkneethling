@@ -6,6 +6,12 @@
 > You can [read and learn more](https://www.peterbe.com/plog/index-of-blog-posts-github-profile-page) on his blog. Thanks, Peter!
 
 <!-- blog posts -->
+### [css-expect: browser-backed unit tests for CSS custom functions](https://schalkneethling.com/posts/introducing-css-expect-unit-testing-css-functions-in-the-browser/)
+
+css-expect enables you to write unit tests for your CSS @functions using the browser engine itself as the source of truth.
+
+Friday, June 12, 2026
+
 ### [@function — Native Custom Functions in CSS](https://schalkneethling.com/posts/css-at-function-native-functions-in-css/)
 
 CSS now has user-defined functions. No preprocessor, no JavaScript, but native @function with typed parameters, local variables, and conditional logic built right into your CSS.
@@ -29,12 +35,6 @@ Friday, May 29, 2026
 How to use Supabase Realtime and Web Sockets to live-update page content in a single-page app.
 
 Thursday, May 28, 2026
-
-### [Announcing Axe Aggregate Reporter: run, report, view, and share a11y results](https://schalkneethling.com/posts/announcing-axe-aggregate-reporter-run-report-view-share-playwright-a11y-results/)
-
-A Playwright reporter paired with a dependency-free viewer that turns axe accessibility results into one report your team can actually read, share, and act on.
-
-Monday, May 25, 2026
 <!-- /blog posts -->
 
 <!--
